@@ -1,3 +1,4 @@
+<img src =/main.PNG><img src =/Toast.PNG>
 Dessert Clicker app
 =====================
 
